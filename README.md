@@ -6,7 +6,7 @@
 	<br>
 </div>
 
-# Kader Oyunu Bot
+# [Kader Oyunu Bot](https://discord.com/api/oauth2/authorize?client_id=745377989130190928&permissions=2147483633&scope=bot)
 
 A Bot that aims to make Fate games more great in an astethic way.
 
