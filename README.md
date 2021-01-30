@@ -8,7 +8,7 @@
 
 # [Kader Oyunu Bot](https://discord.com/api/oauth2/authorize?client_id=745377989130190928&permissions=2147483633&scope=bot)
 
-A Bot that aims to make Fate games more great in an astethic way.
+It is a discord bot that aims to make Fate games more great in an astethic way.
 
 <h2>The bot is capable of:</h2>
   &nbsp;• Opening a neat category for GMs that wants special place to play with their players. <br />
