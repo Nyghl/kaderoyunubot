@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/Nyghl/kaderoyunubot/edit/main/README.md">
+	<a href="https://discord.com/api/oauth2/authorize?client_id=745377989130190928&permissions=2147483633&scope=bot">
 		<img src="kader.svg" width="800" height="400" alt="Click to invite the bot. (Only Turkish For Now)">
 	</a>
 	<br>
