@@ -8,7 +8,7 @@
 
 # Kader Oyunu Bot
 
-A Bot that aims to make Fate games more great in an astethic way.
+A Bot that aims to make Fate games in a more great and astethic way.
 
 <h2>The bot is capable of:</h2>
   &nbsp;• Opening a neat category for GMs that wants special place to play with their players. <br />
