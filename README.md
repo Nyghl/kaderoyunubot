@@ -1,4 +1,3 @@
-(To invite the bot, click the image.)
 <div align="center">
 	<br>
 	<a href="https://discord.com/api/oauth2/authorize?client_id=745377989130190928&permissions=2147483633&scope=bot">
