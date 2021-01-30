@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com//Nyghl/kaderoyunubot/blob/main/README.md">
+	<a href="https://raw.githubusercontent.com//Nyghl/kaderoyunubot/edit/main/README.md">
 		<img src="kader.svg" width="800" height="400" alt="Click to invite the bot. (Only Turkish For Now)">
 	</a>
 	<br>
