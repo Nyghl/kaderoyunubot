@@ -13,7 +13,7 @@ It is a discord bot that aims to make Fate games more great in an astethic way.
 <h2>The bot is capable of:</h2>
   &nbsp;• Opening a neat category for GMs that wants special place to play with their players. <br />
 
-  &nbsp;• Detecting games when they are actively playing, so it can open the visibility of the categorie <br />
+  &nbsp;• Detecting games when they are actively playing, so it can open the visibility of the category <br />
     &nbsp;&nbsp;&nbsp;when players in their channel, thus reducing the space that categories takes in the server. <br />
 
   &nbsp;• Rolling Fate dices.<br />
