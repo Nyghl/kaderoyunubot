@@ -22,7 +22,7 @@ It is a discord bot that aims to make Fate games more great in an astethic way.
     &nbsp;&nbsp;&nbsp;&nbsp;made on the [Kader Oyunu](http://kaderoyunu.com) website. <br />
 
   &nbsp;• Taking your characters made on the [Kader Oyunu](http://kaderoyunu.com) website <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;and show the details of your characters. Like aspects, stunts, skills, stresses, conseqs etc. <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;and showing the details of your characters. Like aspects, stunts, skills, stresses, conseqs etc. <br />
 
   &nbsp;• Creating weekly calendars for games that will be played in that week. <br />
 
